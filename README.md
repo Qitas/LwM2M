@@ -1,6 +1,4 @@
-﻿[![sites](qitas/Qi.png)](http://www.qitas.cn)
-
-# LwM2M
+﻿# LwM2M
 
 ### 项目描述
 
@@ -10,13 +8,10 @@ LwM2M:lightweight Machine to Machine，是OMA（open Mobile Alliance)定义的�
 
 ## 组成
 
-
-
----
-## 说明
-
-2018-10-15: 创建该仓库
+包括基于rtl8710平台的client
 
 ---
+
 ## 为锻造最美之器
+
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
